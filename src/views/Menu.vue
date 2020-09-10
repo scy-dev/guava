@@ -20,7 +20,7 @@
             <el-submenu index="1">
               <template slot="title">
                 <i class="iconfont icon-shangban"></i>
-                <span>工人管理</span>
+                <span>人员管理</span>
               </template>
               <el-menu-item index="/workerlist" name="1-1">工人列表</el-menu-item>
               <el-menu-item index="/workercontract" name="1-2">工人合同</el-menu-item>
